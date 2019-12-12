@@ -1,0 +1,24 @@
+{
+  "name": "node-lab1",
+  "version": "1.0.0",
+  "description": "node lab1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiallMurphyWIT/CA2WebApp.git"
+  },
+  "author": "NiallMurphyWIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiallMurphyWIT/CA2WebApp/issues"
+  },
+  "homepage": "https://github.com/NiallMurphyWIT/CA2WebApp#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^2.0.2"
+  }
+}
